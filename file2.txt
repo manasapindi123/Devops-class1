@@ -1,1 +1,1 @@
-UAT to prepod
+UAT to QA
